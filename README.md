@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">A passionate Flutter Developer from Türkiye</h3>
+<h1 align="center">Hi, I'm Furkan</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkankalafat&label=Profile%20views&color=0eb410&style=plastic" alt="furkankalafat" /> </p>
-
-- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **furkan-kalafat@hotmail.com**
 
